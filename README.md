@@ -118,7 +118,7 @@ elements:
 
 Entities card example
 
-````yaml
+```yaml
 type: entities
 entities:
   - type: 'custom:config-template-card'
